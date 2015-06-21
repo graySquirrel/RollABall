@@ -1,0 +1,82 @@
+Initialize engine version: 5.1.0f3 (ec70b008569d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Rollaball_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Rollaball_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Rollaball_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Rollaball_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Rollaball_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Rollaball_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Rollaball_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Rollaball_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Rollaball_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Rollaball_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.132 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Rollaball_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Rollaball_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1840 -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.233425 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 0.327625 ms (FindLiveObjects: 0.033552 ms CreateObjectMapping: 0.015394 ms MarkObjects: 0.250653 ms  DeleteObjects: 0.010657 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.200768 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 0.339072 ms (FindLiveObjects: 0.032762 ms CreateObjectMapping: 0.022499 ms MarkObjects: 0.271968 ms  DeleteObjects: 0.010657 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.192724 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 0.665909 ms (FindLiveObjects: 0.096708 ms CreateObjectMapping: 0.028420 ms MarkObjects: 0.514333 ms  DeleteObjects: 0.024867 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.684066 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 0.239206 ms (FindLiveObjects: 0.026052 ms CreateObjectMapping: 0.008684 ms MarkObjects: 0.194601 ms  DeleteObjects: 0.009078 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.873238 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 0.232890 ms (FindLiveObjects: 0.026841 ms CreateObjectMapping: 0.007499 ms MarkObjects: 0.188286 ms  DeleteObjects: 0.009473 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.925737 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 0.628015 ms (FindLiveObjects: 0.097893 ms CreateObjectMapping: 0.023683 ms MarkObjects: 0.471702 ms  DeleteObjects: 0.031183 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.501648 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 0.265258 ms (FindLiveObjects: 0.022499 ms CreateObjectMapping: 0.007894 ms MarkObjects: 0.224996 ms  DeleteObjects: 0.009078 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.974833 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 0.333546 ms (FindLiveObjects: 0.021710 ms CreateObjectMapping: 0.008684 ms MarkObjects: 0.292100 ms  DeleteObjects: 0.010262 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.045735 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 0.258548 ms (FindLiveObjects: 0.020525 ms CreateObjectMapping: 0.008289 ms MarkObjects: 0.220259 ms  DeleteObjects: 0.008684 ms)
+
